@@ -2,10 +2,6 @@
 title: How to install package
 description: How to install package
 github: https://github.com/zaimea/metrics-docs/edit/main/
-sections: 
-    installation : 'Install'
-    publish : 'Publish'
-    migrations : 'Migrations'
 ---
 
 # Metrics

@@ -2,10 +2,6 @@
 title: How to use package
 description: How to use package
 github: https://github.com/zaimea/metrics-docs/edit/main/
-sections: 
-    usage : 'Usage'
-    with-config-enums : 'With config enums'
-    or-use-with-enums : 'Or use with Enums'
 ---
 
 # Metrics Usage
