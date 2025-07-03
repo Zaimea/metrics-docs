@@ -8,6 +8,10 @@ github: https://github.com/zaimea/metrics-docs/edit/main/
 
 [[TOC]]
 
+## Introduction
+
+This package will help you create ``metrics`` for your models to generate, for example: invoice numbers in your ``Laravel`` application.
+
 ## Instalation
 
 ```json
