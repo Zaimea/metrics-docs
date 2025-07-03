@@ -1,6 +1,6 @@
 ---
-title: How to install package
-description: How to install package
+title: How to install Metrics package
+description: How to install Metrics package
 github: https://github.com/zaimea/metrics-docs/edit/main/
 ---
 
@@ -14,6 +14,14 @@ This package will help you create ``metrics`` for your models to generate, for e
 
 ## Instalation
 
+You can install the package via composer:
+
+```bash
+composer require zaimealabs/metrics
+```
+
+or via composer.json
+
 ```json
 "repositories": [
         {
@@ -23,9 +31,6 @@ This package will help you create ``metrics`` for your models to generate, for e
     ]
 ```
 
-```bash
-composer require zaimealabs/metrics
-```
 
 ## Publish
 

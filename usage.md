@@ -8,6 +8,10 @@ github: https://github.com/zaimea/metrics-docs/edit/main/
 
 [[TOC]]
 
+## Introduction
+
+Using this package you will be able to have a record of the numbers, for example: invoices are issued and a numbered record is needed for each invoice, this package fulfills exactly what you are looking for.
+
 ## Usage
 
 Set your enums in our config (config/metric.php)
@@ -23,6 +27,7 @@ Add HasMetrics trait to your model
 ```
 
 ## With config enums
+
 Increment
 ```php
     $user->incrementMetric(config('metric.enums.Logins'), 1);
@@ -37,6 +42,7 @@ Get value
 ```
 
 ## Or use with Enums
+
 Create your enum
 ```php
     enum UserMetric: string
